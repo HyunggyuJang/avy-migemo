@@ -4,7 +4,7 @@
 
 ;; Keywords: avy, migemo
 ;; Version: 0.3.2
-;; Package-Requires:((emacs "24.4") (avy "0.4.0") (migemo "1.9"))
+;; Package-Requires:((emacs "24.4") (avy "0.5.0") (migemo "1.9"))
 ;; Author: momomo5717
 ;; URL: https://github.com/momomo5717/avy-migemo
 
